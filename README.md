@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jg9ymnyu2347ud6s?svg=true)](https://ci.appveyor.com/project/Yana-85/auto-allure)
